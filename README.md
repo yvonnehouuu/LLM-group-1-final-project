@@ -1,6 +1,10 @@
 # LLM-group-final-project
 **LLM-Based Toxic Comment Classification Project**
 
+
+> This project was completed as part of a coursework on Large Language Models.
+
+
 This project explores **toxic comment classification using Large Language Models (LLMs)**.  We evaluate the effectiveness of **zero-shot and few-shot prompting strategies** for detecting toxic content in text.
 
 The goal of this project is to investigate how well modern LLMs can perform text classification tasks without traditional model training.
