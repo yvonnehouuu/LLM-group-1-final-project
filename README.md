@@ -49,7 +49,7 @@ The project evaluates different prompting strategies:
 ├── train_zero_predictions.csv
 ├── train_few_predictions.csv
 ├── LLM Group final.ipynb # Main experiment notebook
-├── vidualisation.ipynb # Visualization and analysis
+├── vidualisation.py # Visualization and analysis
 └── README.md
 ```
 
